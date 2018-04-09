@@ -2,8 +2,7 @@
 Super Download is an async download node module compatible with Q(Promises).
   
 > This overrides the default behavior of download-file to work with the Q library
-### Version
-1.0.0
+
 ### Installation
 You need npm installed globally:
 ```sh
